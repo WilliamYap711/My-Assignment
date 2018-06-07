@@ -13,4 +13,4 @@ This contains my assignments
 
 [Python_assignment](https://github.com/WilliamYap711/My-Assignment/blob/master/exam_june_7_2018%20(2).ipynb)
 
-[R assignment](https://github.com/WilliamYap711/My-Assignment/blob/master/Exam_student%20(2).ipynb)
+[R assignment](https://github.com/WilliamYap711/My-Assignment/blob/master/Exam_student%20(3).ipynb)
